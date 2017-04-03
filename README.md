@@ -22,4 +22,4 @@ Controller code is based on Marlin, with configurating settings to work with thi
 
 ## Repo contents
 
-The repository contains STEP files, all required STL files, and pics of the completed assembly.  Build notes, controller and PC codes will be added soon. 
+The repository contains STEP files, all required STL files, and pics of the completed assembly.  Build notes, and full bill of materials (including fasteners and springs omitted in the STEP files), and controller and PC codes will be added soon. 

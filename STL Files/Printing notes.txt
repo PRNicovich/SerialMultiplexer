@@ -1,0 +1,5 @@
+All STL files were printed on a Zortrax M200 filament printer with Ultra-T filament.  Printing with the minimum layer thickness and a heavy infill is appropriate for those parts that will see force or strain.  Many parts can be printed with larger layer thicknesses and lower infill for speed and efficient use of fillament. 
+
+Care is needed in orienting parts on the print bed.  Those parts interfacing with bearing or rod surfaces are largely press-fit and require a close tolerance for those dimensions.  Having the axis of the cylinder that makes up this interaction be perpendicular to the print bed is the best option whenever possible.
+
+A number of these parts need some clean-up for support material but also for clearance of bearings or screw heads.  A sharp knife is sufficient in most cases.  The press-fit assembly can be done on a vise or with a c-clamp. Hammering these fits home is possible but more likely to cause a broken part. 
