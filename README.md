@@ -1,4 +1,4 @@
-# 3D printed robot for liquid handing and serial multiplexing fluorescence microscopy
+# Open source robot for liquid handing and serial multiplexing fluorescence microscopy
 
 ### Motivation
 
@@ -22,4 +22,12 @@ Controller code is based on Marlin, with configurating settings to work with thi
 
 ## Repo contents
 
-The repository contains STEP files, all required STL files, and pics of the completed assembly.  Build notes, and full bill of materials (including fasteners and springs omitted in the STEP files), and controller and PC codes will be added soon. 
+.\STEP Files\ - STEP files of full assembly and of the custom base plate to mount to a metric optical table.  
+
+.\STL Files\ - All files for 3D printing.  These are ready to go into your favorite slicer software to generate 3D printer machine code.
+
+.\Pics\ - Photos and renderings of the completed assembly.  A video of the robot motion testing in action is included. 
+
+.\Hardware\ - Bill of Materials for all items to be purchased for this build.  This includes all fasteners and other hardware omitted in the STEP files.  A measured drawing for the base plate is included, ready to be sent to your local machine shop (or give making it yourself a shot). 
+
+.\Code\ - Arduino controller and MATLAB PC-side codes coming soon!
