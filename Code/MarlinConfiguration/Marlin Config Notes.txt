@@ -1,0 +1,9 @@
+Download latest stable release of Marlin from associated Github repo:
+
+https://github.com/MarlinFirmware/Marlin/releases
+
+Configuration guide can be found here:
+
+https://github.com/MarlinFirmware/Marlin/wiki/Marlin-Configuration
+
+The two files in this folder, Configuration.h and Configuration_adv.h, are those from the original implementation of this build.  You can replace the default Marlin config files with these as a good starting point.  These include important details about temperature sensors (or the lack thereof) and end stops. Further tweaks can be made if desired to tune specifically for your project. 
