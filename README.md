@@ -48,4 +48,4 @@ Motor positions and travel speeds can be set in software.  These need to be cali
 
 .\Hardware\ - Bill of Materials for all items to be purchased for this build.  This includes all fasteners and other hardware omitted in the STEP files.  A measured drawing for the base plate is included, ready to be sent to your local machine shop (or give making it yourself a shot). 
 
-.\Code\ - Arduino controller and MATLAB PC-side codes coming soon!
+.\Code\ - Configuration files for Marlin driver for Arduino and MATLAB PC-side MATLAB code included.  The PC does a small amount of processing and primarily relays Gcode over a serial connection to the Arduino.  Should be straightforward to port to Python, Micromanager Beanshell Java, or whatever other language you may prefer.
